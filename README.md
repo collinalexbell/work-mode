@@ -24,7 +24,7 @@ Replace default directories in the config file with directories you want to have
 
 `work-mode` mounts `.img` files on top of existing personal directories, effectively shadowing their contents.
 
-For example, if `Downloads` is in your `.work-mode-dirs`, then a coresponding .img file will be mounted at `Downloads` when `work-mode on` is called, effectively hiding all of your personal downloads. Then when `work-mode off` is called, the img will be unmounted, revealing the personal contents again.
+For example, if `Downloads` is in your `work-mode.json`, then a coresponding .img file will be mounted at `Downloads` when `work-mode on` is called, effectively hiding all of your personal downloads. Then when `work-mode off` is called, the img will be unmounted, revealing the personal contents again.
 
 ### Why not multiple users?
 
