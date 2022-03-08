@@ -1,5 +1,6 @@
 {
   "directories" : {
-    "~/Downloads": {"size": "1000"}
+    "~/Downloads": {"size": "1000"},
+    "~/.mozilla": {"size": "500"}
   }
 }
