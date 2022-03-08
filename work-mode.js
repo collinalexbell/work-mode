@@ -1,3 +1,4 @@
+#!/usr/bin/node
 import crypto from "crypto";
 import util from 'util';
 import child_process from "child_process"

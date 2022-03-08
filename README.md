@@ -1,3 +1,5 @@
+![](work-mode.gif)
+
 ### work-mode
 
 Keep your work and personal files seperate on the same machine without seperate user
