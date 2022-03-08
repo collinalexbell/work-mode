@@ -1,11 +1,11 @@
-![](work-mode.gif)
 
 ### work-mode
 
 Keep your work and personal files seperate on the same machine without seperate user
 
 
-<img src="work-mode-browser.gif" width="520" />
+![](work-mode.gif)
+<img src="work-mode-browser.gif" width="768" />
 
 ## How to use
 
