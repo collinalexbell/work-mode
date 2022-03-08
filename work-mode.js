@@ -30,7 +30,12 @@ async function mkdir(dirName) {
   await exec(`mkdir ${dirName}`)
 }
 
-const config = JSON.parse(fs.readFileSync("work-mode.json"));
+const configPaths = [`${os.homedir}/.work-mode.json`, `${os.homedir()}/.config/work-mode.json`];
+const foundConfigPath = configPaths.find(path => fs.existsSync(path))
+if(!foundConfigPath) {
+  console.error(`config not found in ${JSON.stringify(configPaths)}`)
+}
+const config = JSON.parse(fs.readFileSync(foundConfigPath));
 
 function dirToSha(dirname) {
   const shasum = crypto.createHash("sha256").update(dirname).digest("hex");
