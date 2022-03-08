@@ -1,0 +1,12 @@
+{
+  "name": "work-mode",
+  "version": "1.0.0",
+  "description": "Keep your work and personal files sepearte on the same machine without a seperate user",
+  "main": "work-mode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
