@@ -1,3 +1,4 @@
+![](work-mode-browser.gif)
 ![](work-mode.gif)
 
 ### work-mode
