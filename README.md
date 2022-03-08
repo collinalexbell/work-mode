@@ -12,7 +12,7 @@ Replace default directories in the config file with directories you want to have
 
 `./work-mode.js on` when you start work
 
-`./work-mode.js off` when you are finished
+`./work-mode.js off` when you end work
 
 ### Built with
 
