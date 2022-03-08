@@ -10,9 +10,9 @@ Copy `work-mode.json` to `~/.work-mode.json` or `~/.config/work-mode.json`
 
 Replace default directories in the config file with directories you want to have images for
 
-`work-mode on` when you start work
+`./work-mode.js on` when you start work
 
-`work-mode off` when you are finished
+`./work-mode.js off` when you are finished
 
 ### Built with
 
