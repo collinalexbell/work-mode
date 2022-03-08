@@ -5,10 +5,7 @@ Keep your work and personal files seperate on the same machine without seperate 
 
 
 ![](work-mode.gif)
-
-
-
-
+<br/><br/><br/>
 <img src="work-mode-browser.gif" width="768" />
 
 ## How to use
