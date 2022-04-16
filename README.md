@@ -10,7 +10,7 @@ Keep your work and personal files seperate on the same machine without seperate 
 
 ## How to use
 
-Copy `work-mode.json` to `~/.work-mode.json` or `~/.config/work-mode.json`
+Copy `work-mode.json` to `~/.work-mode.json` or `~/.config/work-mode.json`. [see here for a video on how to add a folder to be shadowed](https://youtu.be/yZxQmWNmX8E)
 
 Replace default directories in the config file with directories you want to have images for
 
